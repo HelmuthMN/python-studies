@@ -1,0 +1,2 @@
+In Python you can use for without parenthesis.
+In Python you can read a text file in three lines of code!!!!
